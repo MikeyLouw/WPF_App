@@ -1,0 +1,38 @@
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\Utilities\bin\Debug\Utilities.dll
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\Utilities\bin\Debug\Utilities.pdb
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\Utilities\obj\Debug\Utilities.dll
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\Utilities\obj\Debug\Utilities.pdb
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\bin\Debug\Utilities.dll
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\bin\Debug\Utilities.pdb
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\obj\Debug\Utilities.dll
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\obj\Debug\Utilities.pdb
+E:\Dropbox\Besigheid\SoftwareDevelopment\ProCapMAN\Web\ProCapMAN\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\Dropbox\SoftwareWorx\Code\Utilities\obj\Debug\Utilities.dll
+E:\Dropbox\SoftwareWorx\Code\Utilities\bin\Debug\Utilities.dll
+E:\Dropbox\SoftwareWorx\Code\Utilities\bin\Debug\Utilities.pdb
+E:\Dropbox\SoftwareWorx\Code\Utilities\obj\Debug\Utilities.pdb
+C:\Dropbox\SoftwareWorx\Code\Utilities\bin\Debug\Utilities.dll
+C:\Dropbox\SoftwareWorx\Code\Utilities\bin\Debug\Utilities.pdb
+C:\Dropbox\SoftwareWorx\Code\Utilities\obj\Debug\Utilities.dll
+C:\Dropbox\SoftwareWorx\Code\Utilities\obj\Debug\Utilities.pdb
+E:\Code\Utilities\bin\Debug\Utilities.dll
+E:\Code\Utilities\bin\Debug\Utilities.pdb
+E:\Code\Utilities\obj\Debug\Utilities.dll
+E:\Code\Utilities\obj\Debug\Utilities.pdb
+E:\Code\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\Code\BackOfficeCRM\BackOfficeCRM\Web\Utilities\bin\Debug\Utilities.dll
+E:\Code\BackOfficeCRM\BackOfficeCRM\Web\Utilities\bin\Debug\Utilities.pdb
+E:\Code\BackOfficeCRM\BackOfficeCRM\Web\Utilities\obj\Debug\Utilities.dll
+E:\Code\BackOfficeCRM\BackOfficeCRM\Web\Utilities\obj\Debug\Utilities.pdb
+E:\Code\BackOfficeCRM\BackOfficeCRM\Web\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\micha\Documents\Visual Studio Projects\BackOfficeCRM\BackOfficeCRM\Web\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\micha\Documents\Visual Studio Projects\BackOfficeCRM\BackOfficeCRM\Web\Utilities\obj\Debug\Utilities.dll
+C:\Users\micha\Documents\Visual Studio Projects\BackOfficeCRM\BackOfficeCRM\Web\Utilities\obj\Debug\Utilities.pdb
+C:\Users\micha\Documents\Visual Studio Projects\BackOfficeCRM\BackOfficeCRM\Web\Utilities\bin\Debug\Utilities.dll
+C:\Users\micha\Documents\Visual Studio Projects\BackOfficeCRM\BackOfficeCRM\Web\Utilities\bin\Debug\Utilities.pdb
+C:\Users\micha\Documents\Visual Studio Projects\WPFTangent\Utilities\bin\Debug\Utilities.dll
+C:\Users\micha\Documents\Visual Studio Projects\WPFTangent\Utilities\bin\Debug\Utilities.pdb
+C:\Users\micha\Documents\Visual Studio Projects\WPFTangent\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\micha\Documents\Visual Studio Projects\WPFTangent\Utilities\obj\Debug\Utilities.dll
+C:\Users\micha\Documents\Visual Studio Projects\WPFTangent\Utilities\obj\Debug\Utilities.pdb

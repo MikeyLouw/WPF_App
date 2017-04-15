@@ -1,0 +1,25 @@
+﻿<Window x:Class="TangentTest.AddProject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TangentTest"
+        mc:Ignorable="d"
+        Title="AddProject" Height="411.912" Width="593.277">
+    <Grid>
+        <Button Content="Save Project" HorizontalAlignment="Left" Margin="369,325,0,0" VerticalAlignment="Top" Width="89" Height="33" Click="Button_Click"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="470,325,0,0" VerticalAlignment="Top" Width="88" Height="33" Click="Button_Click_1"/>
+        <Label Content="Title" HorizontalAlignment="Left" Margin="50,30,0,0" VerticalAlignment="Top"/>
+        <Label Content="Description" HorizontalAlignment="Left" Margin="50,76,0,0" VerticalAlignment="Top"/>
+        <Label Content="Start Date" HorizontalAlignment="Left" Margin="50,123,0,0" VerticalAlignment="Top"/>
+        <Label Content="End Date" HorizontalAlignment="Left" Margin="50,163,0,0" VerticalAlignment="Top"/>
+        <Label Content="Active" HorizontalAlignment="Left" Margin="50,248,0,0" VerticalAlignment="Top"/>
+        <Label Content="Billable" HorizontalAlignment="Left" Margin="50,206,0,0" VerticalAlignment="Top"/>
+        <DatePicker HorizontalAlignment="Left" Margin="219,125,0,0" VerticalAlignment="Top" Width="147" Name="startdate"/>
+        <DatePicker HorizontalAlignment="Left" Margin="219,164,0,0" VerticalAlignment="Top" Width="147" Name="enddate"/>
+        <ComboBox HorizontalAlignment="Left" Margin="219,206,0,0" VerticalAlignment="Top" Width="120" Name="Billable"/>
+        <ComboBox HorizontalAlignment="Left" Margin="219,252,0,0" VerticalAlignment="Top" Width="120" Name="Active"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="219,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="title"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="219,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Name="description"/>
+    </Grid>
+</Window>
